@@ -4,7 +4,14 @@
 Comprehensive data analysis team projects demonstrating teamwork, advanced Python programming, and end-to-end analytics workflows. Projects showcase ability to handle large datasets, create interactive 
 visualizations, and deliver actionable business insights.
 
-## Featured Projects
+## Project Structure
+Each project folder contains complete analysis workflow including:
+- Python analysis scripts and Jupyter notebooks
+- Interactive HTML dashboards and visualizations (where applicable)
+- Data files and preprocessing scripts
+- Project-specific documentation and findings
+
+## Projects
 
 ### Geospatial Traffic Safety Analysis
 - Analyzed crash data to identify high-risk locations and temporal patterns
