@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-This portfolio demonstrates advanced **data analytics and visualization capabilities** essential for modern project management roles. Through 20 comprehensive projects, I showcase proficiency in transforming complex data into actionable business insights, creating executive-level dashboards, and supporting data-driven decision making across diverse business scenarios.
+This portfolio demonstrates advanced **data analytics and visualization capabilities** essential for modern project management roles. Through 10 comprehensive skill assessments, I showcase proficiency in transforming complex data into actionable business insights, creating executive-level dashboards, and supporting data-driven decision making across diverse business scenarios.
 
 ## Core Competencies for Project Management
 
@@ -45,37 +45,37 @@ This portfolio demonstrates advanced **data analytics and visualization capabili
 ## Professional Skills Demonstration
 
 ### Python Programming for Business Analytics
-**Files**: [`python-basics-assignment.ipynb`] | [`python-basics-quiz.ipynb`]
+**File**: [`python-basics-quiz.ipynb`]
 - **Business Value**: Automated data processing, workflow optimization, report generation
 - **PM Applications**: Project data automation, KPI calculations, resource allocation analysis
 - **Key Capabilities**: Process automation, data pipeline development, efficiency optimization
 
 ### Data Management & Transformation
-**Files**: [`pandas-introduction-assignment.ipynb`] | [`pandas-introduction-quiz.ipynb`] | [`pandas-advanced-assignment.ipynb`] | [`pandas-advanced-quiz.ipynb`]
+**Files**: [`pandas-introduction-quiz.ipynb`] | [`pandas-advanced-quiz.ipynb`]
 - **Business Value**: Clean, accurate data for informed decision-making and strategic planning
 - **PM Applications**: Project database management, timeline analysis, resource tracking, budget monitoring
 - **Key Capabilities**: Data integration, quality assurance, performance metrics calculation, stakeholder reporting
 
 ### Executive Dashboard Development
-**Files**: [`matplotlib-fundamentals-assignment.ipynb`] | [`matplotlib-fundamentals-quiz.ipynb`] | [`matplotlib-numpy-assignment.ipynb`] | [`matplotlib-numpy-quiz.ipynb`] | [`matplotlib-advanced-assignment.ipynb`] | [`matplotlib-advanced-quiz.ipynb`]
+**Files**: [`matplotlib-fundamentals-quiz.ipynb`] | [`matplotlib-numpy-quiz.ipynb`] | [`matplotlib-advanced-quiz.ipynb`]
 - **Business Value**: Professional visualizations for executive presentations and strategic planning
 - **PM Applications**: Project status dashboards, milestone tracking, resource utilization charts, budget variance analysis
 - **Key Capabilities**: Executive reporting, presentation design, trend analysis, performance visualization
 
 ### Statistical Analysis & Business Intelligence
-**Files**: [`seaborn-statistical-assignment.ipynb`] | [`seaborn-statistical-quiz.ipynb`]
+**File**: [`seaborn-statistical-quiz.ipynb`]
 - **Business Value**: Data-driven insights for strategic decision-making and risk assessment
 - **PM Applications**: Project performance analysis, risk identification, team productivity assessment, outcome prediction
 - **Key Capabilities**: Statistical modeling, correlation analysis, predictive insights, risk quantification
 
 ### Interactive Business Dashboards
-**Files**: [`plotly-interactive-assignment.ipynb`] | [`plotly-interactive-quiz.ipynb`] | [`seaborn-interactive-assignment.ipynb`] | [`seaborn-interactive-quiz.ipynb`]
+**Files**: [`plotly-interactive-quiz.ipynb`] | [`seaborn-interactive-quiz.ipynb`]
 - **Business Value**: Self-service analytics for stakeholders, real-time project monitoring
 - **PM Applications**: Interactive project portfolios, stakeholder self-service reporting, real-time KPI monitoring
 - **Key Capabilities**: User experience design, interactive reporting, stakeholder enablement, real-time analytics
 
 ### Advanced Analytics for Strategic Planning
-**Files**: [`network-timeseries-assignment.ipynb`] | [`network-timeseries-quiz.ipynb`]
+**File**: [`network-timeseries-quiz.ipynb`]
 - **Business Value**: Complex analytical insights for organizational optimization and forecasting
 - **PM Applications**: Stakeholder relationship mapping, project timeline optimization, resource forecasting, organizational analysis
 - **Key Capabilities**: Network analysis, predictive modeling, strategic planning support, organizational insights
