@@ -17,19 +17,18 @@ Comprehensive geospatial and temporal analysis of traffic crash incidents with i
 - Driver demographics analysis (age, gender, substance involvement)
 - Fatal crash clustering and geographic concentration patterns
 
-## Files
-- traffic_crash_analysis.py - Main python file
-- traffic_crash_analysis.pdf - Comprehensive analysis report with findings
+## Files (All dashboards are fully interactive Plotly visualizations, click to open in a new tab)
+- analysis.py - Main geospatial analysis script
 - interactive-dashboards/ - 9 HTML visualization files
-  - crash_factors_heatmap.html
-  - crash_geographic_distribution.html
-  - crash_temporal_patterns.html
-  - demographics_visualization.html
-  - density_map_visualization.html
-  - hotspots_visualization.html
-  - severity_map_visualization.html
-  - temporal_analysis_visualization.html
-  - weather_analysis_visualization.html
+  - [Crash Factors Heatmap](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/crash_factors_heatmap.html)
+  - [Geographic Distribution](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/crash_geographic_distribution.html)
+  - [Temporal Patterns](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/crash_temporal_patterns.html)
+  - [Demographics Analysis](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/demographics_visualization.html)
+  - [Density Map](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/density_map_visualization.html)
+  - [Hotspots Analysis](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/hotspots_visualization.html)
+  - [Severity Mapping](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/severity_map_visualization.html)
+  - [Temporal Analysis](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/temporal_analysis_visualization.html)
+  - [Weather Impact Analysis](https://neilvashani.github.io/python-data-analytics/group-projects/01-traffic-crash-analysis/interactive-dashboards/weather_analysis_visualization.html)
 - README.md - Project documentation
 
 ## Major Findings
