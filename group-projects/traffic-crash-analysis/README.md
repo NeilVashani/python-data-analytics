@@ -17,7 +17,7 @@ Comprehensive geospatial and temporal analysis of traffic crash incidents with i
 - Driver demographics analysis (age, gender, substance involvement)
 - Fatal crash clustering and geographic concentration patterns
 
-## Files (All dashboards are fully interactive Plotly visualizations, click to open in a new tab)
+## Files (All dashboards are fully interactive Plotly visualizations, right click to open in a new tab)
 - analysis.py - Main geospatial analysis script
 - interactive-dashboards/ - 9 HTML visualization files
   - [Crash Factors Heatmap](https://neilvashani.github.io/python-data-analytics/group-projects/traffic-crash-analysis/interactive-dashboards/crash_factors_heatmap.html)
